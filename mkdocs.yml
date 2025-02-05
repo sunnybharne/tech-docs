@@ -1,0 +1,29 @@
+site_name: ''
+theme:
+  name: material
+  palette:
+    primary: white
+    accent: orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.instant.progress
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+plugins:
+  - search
+  - blog
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://sunnybharne.github/
+
+repo_url: https://github.com/sunnybharne
