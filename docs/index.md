@@ -1,17 +1,42 @@
-# Welcome to MkDocs
+# About Me
+## Welcome to My Digital Space (Sunny Bharne)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi! I'm **Sunny Bharne**, a Senior Azure Developer based in **Helsinki, Finland**. I’m passionate about **cloud computing, DevOps, and software engineering**. I love solving complex problems, sharing knowledge, and building solutions that make an impact.  
 
-## Commands
+## What I Do  
+- **Azure Architect & Developer** – Designing and optimizing cloud solutions.  
+- **Cloud & DevOps Enthusiast** – Automating workflows and improving deployments.  
+- **Tech Blogger & Speaker** – Sharing insights on software engineering and cloud.  
+- **Lifelong Learner** – Exploring the latest in AI, cloud, and software design.  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Skills & Expertise  
+- **Azure Cloud | DevOps | Serverless | Microservices**  
+- **C# | .NET | Python | Terraform | Kubernetes**  
+- **Performance Tuning | Architecture Design | Security Best Practices**  
 
-## Project layout
+## Projects  
+Here are some of my recent works:  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **[CloudOps Automator](projects/cloudops-automator.md)** – Automating Azure infrastructure.  
+- **[AI-Powered Chatbot](projects/ai-chatbot.md)** – Conversational AI with real-time integration.  
+- **[Serverless Applications](projects/serverless-apps.md)** – Scalable and cost-efficient cloud solutions.  
+
+*(Check out my full [portfolio](portfolio.md) for more!)*  
+
+## Blog: Sharing Insights & Learnings  
+I write about:  
+- **Cloud & DevOps** – Strategies, automation, and best practices.  
+- **Software Architecture** – Design patterns, scalability, and optimization.  
+- **Productivity & Tech Trends** – Insights on efficiency and emerging technologies.  
+
+Read more on my [blog](blog/index.md).  
+
+## Let's Connect  
+📧 Email: [sunny.bharne@example.com](mailto:sunny.bharne@example.com)  
+💼 LinkedIn: [Sunny Bharne](https://linkedin.com/in/sunnybharne)  
+🐦 Twitter: [@SunnyBharne](https://twitter.com/sunnybharne)  
+📷 Instagram: [@SunnyInTheClouds](https://instagram.com/sunnyintheclouds)  
+
+---
+
+Thanks for visiting! Feel free to reach out and connect.
