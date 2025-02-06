@@ -28,6 +28,10 @@ extra:
       link: https://github.com/sunnybharne
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sunnybharne
+    - icon: fontawesome/solid/envelope
+      link: mailto:sunny.bharne@outlook.com
+    - icon: fontawesome/solid/globe
+      link: https://sunnybharne.github.io/tech-docs/
 
 repo_url: https://github.com/sunnybharne
 

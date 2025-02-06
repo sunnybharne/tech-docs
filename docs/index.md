@@ -1,42 +1,105 @@
 # About Me
-## Welcome to My Digital Space (Sunny Bharne)
 
-Hi! I'm **Sunny Bharne**, a Senior Azure Developer based in **Helsinki, Finland**. I’m passionate about **cloud computing, DevOps, and software engineering**. I love solving complex problems, sharing knowledge, and building solutions that make an impact.  
+[![GitHub Profile](https://github.com/sunnybharne.png?size=100)](https://github.com/sunnybharne)
 
-## What I Do  
-- **Azure Architect & Developer** – Designing and optimizing cloud solutions.  
-- **Cloud & DevOps Enthusiast** – Automating workflows and improving deployments.  
-- **Tech Blogger & Speaker** – Sharing insights on software engineering and cloud.  
-- **Lifelong Learner** – Exploring the latest in AI, cloud, and software design.  
+<script>
+fetch("https://raw.githubusercontent.com/sunnybharne/sunnybharne/main/README.md")
+  .then(response => response.text())
+  .then(markdown => {
+    document.getElementById("github-readme").innerHTML =
+      marked.parse(markdown);
+  });
+</script>
 
-## Skills & Expertise  
-- **Azure Cloud | DevOps | Serverless | Microservices**  
-- **C# | .NET | Python | Terraform | Kubernetes**  
-- **Performance Tuning | Architecture Design | Security Best Practices**  
+<div id="github-readme">
+  <p>Loading GitHub README...</p>
+</div>
 
-## Projects  
-Here are some of my recent works:  
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-- **[CloudOps Automator](projects/cloudops-automator.md)** – Automating Azure infrastructure.  
-- **[AI-Powered Chatbot](projects/ai-chatbot.md)** – Conversational AI with real-time integration.  
-- **[Serverless Applications](projects/serverless-apps.md)** – Scalable and cost-efficient cloud solutions.  
+# My Pinned Projects 🚀
 
-*(Check out my full [portfolio](portfolio.md) for more!)*  
+<style>
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
 
-## Blog: Sharing Insights & Learnings  
-I write about:  
-- **Cloud & DevOps** – Strategies, automation, and best practices.  
-- **Software Architecture** – Design patterns, scalability, and optimization.  
-- **Productivity & Tech Trends** – Insights on efficiency and emerging technologies.  
+  .project-card {
+    width: 320px;
+    background: rgba(25, 25, 25, 0.85); /* Darker for better contrast */
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+  }
 
-Read more on my [blog](blog/index.md).  
+  .project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.3);
+  }
 
-## Let's Connect  
-📧 Email: [sunny.bharne@example.com](mailto:sunny.bharne@example.com)  
-💼 LinkedIn: [Sunny Bharne](https://linkedin.com/in/sunnybharne)  
-🐦 Twitter: [@SunnyBharne](https://twitter.com/sunnybharne)  
-📷 Instagram: [@SunnyInTheClouds](https://instagram.com/sunnyintheclouds)  
+  .project-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #ffffff; /* Ensures visibility on dark background */
+    margin-bottom: 10px;
+  }
 
----
+  .project-desc {
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.9); /* Lighter for readability */
+    margin-bottom: 15px;
+  }
 
-Thanks for visiting! Feel free to reach out and connect.
+  .project-link img {
+    width: 140px;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .project-link img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<div class="project-container">
+  
+  <div class="project-card">
+    <h3 class="project-title">nvim config</h3>
+    <p class="project-desc">My personal Neovim configuration.</p>
+    <a class="project-link" href="https://github.com/sunnybharne/nvim" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="My nvim config">
+    </a>
+  </div>
+
+  <div class="project-card">
+    <h3 class="project-title">nvim-gh-actions-snippets</h3>
+    <p class="project-desc">Neovim snippets for GitHub Actions.</p>
+    <a class="project-link" href="https://github.com/sunnybharne/nvim-gh-actions-snippets" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="My gh actions snippets">
+    </a>
+  </div>
+
+  <div class="project-card">
+    <h3 class="project-title">Backstage Dev Portal</h3>
+    <p class="project-desc">Backstage developer portal for my projects.</p>
+    <a class="project-link" href="https://github.com/papliba/developer-portal" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Backstage dev portal">
+    </a>
+  </div>
+
+  <div class="project-card">
+    <h3 class="project-title">Papliba Website</h3>
+    <p class="project-desc">Papliba website.</p>
+    <a class="project-link" href="https://github.com/papliba/papliba" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Papliba">
+    </a>
+  </div>
+
+</div>
