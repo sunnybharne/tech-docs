@@ -67,7 +67,3 @@ To align with **Microsoft’s Cloud Adoption Framework (CAF)**, follow these bes
 - Combine ADRs with **C4 Diagrams** to visualize resource structures.
 
 ---
-
-## 💬 Discussion: Standardizing Naming in Your Organization
-How do you document and enforce Azure naming conventions? Let's discuss in the comments! 👇
-
