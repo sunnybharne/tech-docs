@@ -7,7 +7,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/logo.png
+  logo: assets/sunny-logo.png
   favicon: assets/favicon.png
   features:
     - navigation.instant
