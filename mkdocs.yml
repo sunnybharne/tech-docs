@@ -22,8 +22,13 @@ plugins:
   - blog
 
 extra:
+  generator: false
   social:
-    - icon: fontawesome/brands/mastodon 
-      link: https://sunnybharne.github/
+    - icon: fontawesome/brands/github-alt 
+      link: https://github.com/sunnybharne
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sunnybharne
 
 repo_url: https://github.com/sunnybharne
+
+copyright: Copyright © 2025 Sunny Bharne
